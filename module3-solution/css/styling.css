@@ -1,0 +1,59 @@
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: white;
+	font-size: 20px;
+}
+
+.navbar-brand{
+	font-size: 1.75em;
+}
+
+a .navbar-brand{
+	text-decoration:white;
+}
+.navbar{
+	background-color: #e82e27;
+}
+
+#collapsable-nav ul{
+	text-align: center;
+	background-color: white;
+}
+
+#collapsable-nav ul li{
+	border:2px solid #e82e27;
+}
+
+#collapsable-nav ul li{
+
+}
+h2 {
+	font-size: 1.75em;
+}
+
+.row{
+	
+	background-color: #e82e27;
+	padding:20px;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	
+}
+
+.row p {
+	color:white;
+	opacity: 1;
+
+}
+
+.row span{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+li:hover{
+	background-color: #9F9D9D;
+}
